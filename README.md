@@ -76,5 +76,4 @@ To run this project locally on your machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/sppu-credit-analysis.git](https://github.com/your-username/sppu-credit-analysis.git)
-   cd sppu-credit-analysis
+   https://github.com/AniketRaut02/SPPU-Students-Credit-Analysis.git
