@@ -4,6 +4,7 @@ A data-driven web application built with **Python & Streamlit** designed specifi
 
 This tool analyzes historical student performance to uncover subject difficulty trends, and uses a hybrid Machine Learning approach to predict a student's future EndSem performance based on their past academic capability and current semester momentum.
 
+🎮 **[Click Here to Visit live website](https://sppu-students-credit-analysis.streamlit.app/)**
 ---
 
 ## ✨ Dashboard Features
